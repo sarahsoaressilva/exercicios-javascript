@@ -4,7 +4,6 @@ var recebe;
 var ced = [100, 50, 20, 10, 5, 2, 1];
 
 function calculaNota(nota, valor) {
-
   if (valor >= nota ) {
     result = parseInt( (valor / nota) );
     ent = valor - (result*nota);
