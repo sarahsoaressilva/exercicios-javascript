@@ -4,6 +4,7 @@ Exercícios básicos feitos para o aprendizado de **JavaScript**. Os primeiros e
 
 ---
 **Exercício 1**
+
 Contexto:  
 - Fazer a leitura de 5 valores inteiros. 
 - Mostrar quantos valores informados são **pares**; 
@@ -14,6 +15,7 @@ Contexto:
 <a href="#"> Link para o exercício </a>
 
 **Exercício 2**
+
 Contexto:  
  - Fazer a leitura de um valor inteiro;
  - Calcular o menor número de notas possíveis (cédulas) onde o valor pode ser decomposto. 
